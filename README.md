@@ -1,2 +1,4 @@
-# CS-4110-ME1
+Alan Turing’s “Computing Machinery and Intelligence” (1950)
+
+
 
